@@ -1,0 +1,21 @@
+body {
+  display: flex;
+}
+body > div {
+  margin: auto;
+}
+
+body > div > p {
+  font-weight: bolder;
+  font-size: 50px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+html {
+  background-color: aqua;
+}

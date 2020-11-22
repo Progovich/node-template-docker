@@ -1,0 +1,5 @@
+/.git/
+.eslintrc.json
+.prettierrc
+/.vscode/
+/.cache/
